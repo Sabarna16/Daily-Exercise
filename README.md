@@ -1,1 +1,1 @@
-It is a html Day1 Exercise
+It is a html Daily Exercise
